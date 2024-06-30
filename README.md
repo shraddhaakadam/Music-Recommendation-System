@@ -1,2 +1,2 @@
 # Music-Recommendation-System
-Sql Project
+The Music Recommendation System project is designed to enhance the music streaming experience by offering personalized music recommendations. The system leverages a robust database structure that manages various entities such as Users, Artists, Albums, Songs, Playlists, and Recommendations. By analyzing user data and preferences, the recommendation engine provides tailored suggestions, helping users discover new music that aligns with their tastes. The project also emphasizes scalability, security, and integration with external data sources to ensure a comprehensive and secure platform. Through efficient data management and user-centric design, the project aims to create an engaging and satisfying user experience.
